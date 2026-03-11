@@ -6,5 +6,4 @@ if (a.lower() in post.lower()):
 else:
     print(a,"is not present in this post ")
 
-
 print ("Have a nice day :)")
